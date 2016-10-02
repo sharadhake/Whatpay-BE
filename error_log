@@ -1,0 +1,17 @@
+[22-Aug-2012 13:39:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[23-Aug-2012 11:43:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[24-Aug-2012 05:50:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[30-Aug-2012 02:47:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[01-Sep-2012 05:37:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[01-Sep-2012 14:07:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[01-Sep-2012 14:11:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[03-Sep-2012 14:03:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[03-Sep-2012 14:04:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[03-Sep-2012 14:08:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[03-Sep-2012 14:09:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[03-Sep-2012 14:10:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[14-Sep-2012 11:34:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[14-Sep-2012 11:35:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[14-Sep-2012 11:37:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/diversio/public_html/datefinderapp/clsUtility.php on line 128
+[20-Sep-2012 14:44:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/diversio/public_html/datefinderapp/getConversation.php on line 24
+[20-Sep-2012 14:46:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/diversio/public_html/datefinderapp/getConversation.php on line 24
